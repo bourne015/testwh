@@ -82,3 +82,4 @@ License
 This project inherits the ZLIB/LIBPNG license of the original [program](http://www.group-finity.com/Shimeji). 
 The included [Java Native Access](http://github.com/twall/jna) library is licensed under the LGPL. [The Mozilla Rhino Javascript Engine](http://www.mozilla.org/rhino)
 is licensed under the Mozilla Public License.
+#add test
